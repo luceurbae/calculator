@@ -2,6 +2,9 @@
 int var1 = 100;
 int var2 = 67;
 
+
+// CEK PERUBAHAN PULL
+
 static int Penjumlahan(int var1, int var2)
 {
     return var1 + var2;
